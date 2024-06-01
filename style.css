@@ -5358,6 +5358,7 @@ label {
   flex-direction: column;
   align-items: flex-start;
   display: flex;
+  padding-bottom: 5px;
 }
 
 .black-divider {
@@ -6193,7 +6194,7 @@ label {
   }
 
   .h-large.condensed {
-    font-size: 150px;
+    font-size: 250px;
   }
 
   .h-large.pro {
@@ -6351,7 +6352,7 @@ label {
   }
 
   .wide-container.footer-padding {
-    min-height: 80vh;
+    min-height: 20vh;
   }
 
   .button-face-back {
