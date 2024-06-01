@@ -2222,7 +2222,7 @@ label {
 }
 
 .section.bg-footer {
-  min-height: 100vh;
+  min-height: 6vh;
   background-color: #0e0e0e;
   flex-direction: column;
   justify-content: space-between;
