@@ -5043,7 +5043,7 @@ label {
 
 .hero-landing-03 {
   margin-top: 30px;
-  min-height: 10vh;
+  min-height: 8vh;
   text-align: center;
   flex-direction: column;
   justify-content: center;
@@ -5312,12 +5312,11 @@ label {
 }
 
 .ticker-container-min {
+  font-size: 25px;
   z-index: 90;
-  width: 30vw;
-  height: 20vh;
+  height: 6vh;
   justify-content: flex-start;
   align-items: center;
-  padding-top: 4em;
   display: flex;
   position: relative;
   top: 0%;
