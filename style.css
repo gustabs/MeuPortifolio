@@ -2205,7 +2205,7 @@ label {
 }
 
 .section.sub-hero {
-  min-height: 100vh;
+  min-height: 10vh;
   flex-direction: column;
   justify-content: center;
   display: flex;
@@ -2222,7 +2222,6 @@ label {
 }
 
 .section.bg-footer {
-  min-height: 100vh;
   background-color: #0e0e0e;
   flex-direction: column;
   justify-content: space-between;
@@ -3314,7 +3313,7 @@ label {
 }
 
 .wide-container.footer-padding {
-  min-height: 90vh;
+  min-height: 50vh;
   flex-direction: column;
   justify-content: space-between;
   padding-top: 6em;
@@ -5043,7 +5042,8 @@ label {
 }
 
 .hero-landing-03 {
-  min-height: 100vh;
+  margin-top: 30px;
+  min-height: 40vh;
   grid-row-gap: 3em;
   text-align: center;
   flex-direction: column;
