@@ -3435,7 +3435,6 @@ label {
 .gap {
   grid-row-gap: 10em;
   flex-direction: column;
-  padding-top: 12em;
   padding-bottom: 12em;
   display: flex;
 }
