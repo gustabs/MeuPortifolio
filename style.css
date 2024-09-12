@@ -8514,26 +8514,10 @@ label {
 
 /* ========================================================================== */
 
-.container
+.box img
 {
-  width: 100%;
-  margin: 20px auto;
-  columns: 4;
-  column-gap: 20px;
-  padding: 20px;
-}
-
-.container .box
-{
-  width: 100%;
-  margin-bottom: 10px;
-  break-inside: avoid;
-}
-
-.container .box img
-{
-  max-width: 100%;
-  border-radius: 15px;
+  width: 800px;
+  padding: 40px;
 }
 
 @media (max-width: 1200px)
