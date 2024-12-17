@@ -777,7 +777,7 @@ textarea.w-select {
 }
 
 .w-container {
-  max-width: 940px;
+  max-width: 100px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -1785,7 +1785,6 @@ textarea.w-select {
 .w-richtext ul {
   overflow: hidden;
 }
-
 
 .w-richtext figure.w-richtext-figure-type-video > div:after,
 .w-richtext figure[data-rt-type="video"] > div:after {
@@ -4342,7 +4341,6 @@ label {
 
 .team-member-wrapper {
   height: 42em;
-  background-color: #8d8d8d;
   overflow: hidden;
 }
 
@@ -8511,37 +8509,3 @@ label {
   font-style: normal;
   font-display: swap;
 }
-
-/* ========================================================================== */
-
-.box img
-{
-  width: 800px;
-  padding: 40px;
-}
-
-@media (max-width: 1200px)
-{
-  .container
-  {
-    width: calc(100% - 40px);
-    columns: 3;
-  }
-}
-
-@media (max-width: 768px)
-{
-  .container
-  {
-    columns: 2;
-  }
-}
-
-@media (max-width: 480px)
-{
-  .container
-  {
-    columns: 1;
-  }
-}
-
